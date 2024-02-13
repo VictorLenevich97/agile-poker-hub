@@ -6,6 +6,12 @@ https://github.com/ixartz/Astro-boilerplate
 
 ### How to setup
 
+First, install dependencies
+
+``` bash
+npm install
+```
+
 You can run locally in development mode with live reload:
 
 ``` bash
